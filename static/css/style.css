@@ -117,3 +117,7 @@ a:hover {
     position: relative;
     left: 200px;
 }
+
+.face-button {
+    transform: scale(0.8);
+}
