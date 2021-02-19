@@ -69,10 +69,10 @@
 }
 
 .three-bars {
-    padding: auto;
-    position: absolute;
-    top: 45px;
-    right: 440px;
+    /* padding: auto; */
+    position: relative;
+    top: 0px;
+    left: 175px;
 }
 
 .home-btn {
@@ -107,9 +107,9 @@ a:hover {
 }
 
 .previous-btn {
-    position: absolute;
-    top: 45px;
-    left: 400px;
+    position: relative;
+    top: 0px;
+    right: 175px;
 }
 
 .next-btn {
