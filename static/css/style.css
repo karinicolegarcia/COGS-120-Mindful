@@ -121,3 +121,9 @@ a:hover {
 .face-button {
     transform: scale(0.8);
 }
+
+.fb-btn {
+    background-color: #3b5998;
+    color: white;
+    border-radius: 4px;
+}
